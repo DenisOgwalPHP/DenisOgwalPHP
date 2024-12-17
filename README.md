@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Denis Ogwal
-- 👀 I’m interested in PHP, HTML5, CSS3, Javascript, Laravel, TAL stack and Vue web Development 
+- 👀 I’m interested in PHP, HTML5, CSS3, Javascript, Laravel, TALL stack and Vue web Development 
 - 🌱 I’m currently Mastering Vue 3 ...
 - 💞️ I’m looking to collaborate on Projects in Line with the stated Stacks
 - 📫 Reach me on +256787045644/ +256703950394
